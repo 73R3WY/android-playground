@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Playground</string>
+
+    <string name="shutdown_no_root">Shutdown (No Root)</string>
+    <string name="shutdown_root">Shutdown (Root)</string>
+    <string name="activate_location">Get Location</string>
+    <string name="deactivate_location">Turn off Location</string>
+    <string name="location_info">Location info</string>
+    <string name="gps_disabled">GPS is disabled</string>
+</resources>
